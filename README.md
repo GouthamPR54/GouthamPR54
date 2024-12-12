@@ -20,18 +20,18 @@ Join me on this exciting journey as you explore my professional growth and innov
 
 ### <a href="https://drive.google.com/file/d/1PIG8AFJSdv3ya763lkq0qYLDMFH4TQie/view?usp=sharing"><strong>Click here to explore ➡️</strong></a>
 
-<h3>🌐 Connect with Me</h3>
+# <h3>🌐 Connect with Me</h3>
 <p>
-  <a href="https://www.linkedin.com/in/gouthampr" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.0.0/svgs/brands/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
+ <a href="https://www.linkedin.com/in/gouthampr" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
 </a>&emsp;
-<a href="https://twitter.com/gouthampr" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.0.0/svgs/brands/twitter.svg" alt="Twitter" width="40" height="40"/>
-</a>
 
+<a href="https://twitter.com/gouthampr" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" width="40" height="40"/>
+</a>
 </p>
 
-<h3>🛠 Languages</h3>
+#  <h3>🛠 Languages</h3>
 <p>
   <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
@@ -53,7 +53,7 @@ Join me on this exciting journey as you explore my professional growth and innov
   </a>
 </p>
 
-<h3>🖥 Web Development</h3>
+# <h3>🖥 Web Development</h3>
 <p>
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=react" alt="React" />
@@ -69,7 +69,7 @@ Join me on this exciting journey as you explore my professional growth and innov
   </a>
 </p>
 
-<h3>💾 Databases</h3>
+# <h3>💾 Databases</h3>
 <p>
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
@@ -79,7 +79,7 @@ Join me on this exciting journey as you explore my professional growth and innov
   </a>
 </p>
 
-<h3>☁️ Cloud Technologies and Linux</h3>
+# <h3>☁️ Cloud Technologies and Linux</h3>
 <p>
   <a href="https://aws.amazon.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
