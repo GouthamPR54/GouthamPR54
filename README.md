@@ -1,4 +1,4 @@
-<center> Hi 👋, I'm Goutham PR  </center>
+#   Hi 👋, I'm Goutham PR  
 
 ### Dynamic Software Engineer 💻 | Full Stack Developer | Cloud Computing Enthusiast ☁️  
 ### Linux Administrator 🐧 | Passionate Technologist 🚀  
