@@ -1,9 +1,11 @@
-#   Hi 👋, I'm Goutham PR  
+# 👋 Hi, I'm Goutham PR  
 
-### Dynamic Software Engineer 💻 | Full Stack Developer | Cloud Computing Enthusiast ☁️  
-### Linux Administrator 🐧 | Passionate Technologist 🚀  
+![Welcome](https://media.giphy.com/media/9J7Z9TW9jKhCU/giphy.gif)
 
-👋 **Open to Collaborating** on innovative projects involving Full Stack Development, Cloud Computing, Linux Administration, and more. Let’s work together to create impactful solutions!  
+### 💻 Dynamic Software Engineer | Full Stack Developer | Cloud Computing Enthusiast ☁️  
+### 🐧 Linux Administrator | Passionate Technologist 🚀  
+
+🌟 **Open to Collaborating** on cutting-edge projects involving Full Stack Development, Cloud Solutions, Linux, and more! Let’s create innovative and impactful software solutions together. 🚀   
 
 ---
 
@@ -19,3 +21,81 @@
 Join me on this exciting journey as you explore my professional growth and innovative perspective! 🌱📄
 
 ### <a href="https://drive.google.com/file/d/1PIG8AFJSdv3ya763lkq0qYLDMFH4TQie/view?usp=sharing"><strong>Click here to explore ➡️</strong></a>
+
+<h3>🌐 Connect with Me</h3>
+<p>
+  <a href="https://www.linkedin.com/in/gouthampr" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=social&logo=linkedin" alt="LinkedIn" />
+  </a>&emsp;
+  <a href="https://twitter.com/gouthampr" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=social&logo=twitter" alt="Twitter" />
+  </a>
+</p>
+
+<h3>🛠 Languages</h3>
+<p>
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cplusplus" alt="C++" />
+  </a>&emsp;
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+  </a>&emsp;
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+  </a>&emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+  </a>&emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+  </a>&emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
+  </a>
+</p>
+
+<h3>🖥 Web Development</h3>
+<p>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" alt="React" />
+  </a>&emsp;
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
+  </a>&emsp;
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=express" alt="Express.js" />
+  </a>&emsp;
+   <a href="https://www.djangoproject.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=django" alt="Django" />
+  </a>
+</p>
+
+<h3>💾 Databases</h3>
+<p>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
+  </a>&emsp;
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+  </a>
+</p>
+
+<h3>☁️ Cloud Technologies and Linux</h3>
+<p>
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
+  </a>&emsp;
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
+  </a>&emsp;
+  <a href="https://ubuntu.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" />
+  </a>&emsp;
+  <a href="https://www.redhat.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=redhat" alt="RedHat" />
+  </a>
+</p>
+
+
+
+
