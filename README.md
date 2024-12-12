@@ -22,7 +22,7 @@ Join me on this exciting journey as you explore my professional growth and innov
 
 # <h3>🌐 Connect with Me</h3>
 <p>
- <a href="https://www.linkedin.com/in/gouthampr" target="_blank">
+ <a href="https://www.linkedin.com/in/goutham-pr-830473265/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BW2ShwopRQcGNis2L%2BRnlrQ%3D%3D" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
 </a>&emsp;
 
