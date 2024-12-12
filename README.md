@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Goutham PR  
 
-![Welcome](https://media.giphy.com/media/9J7Z9TW9jKhCU/giphy.gif)
-
 ### 💻 Dynamic Software Engineer | Full Stack Developer | Cloud Computing Enthusiast ☁️  
 ### 🐧 Linux Administrator | Passionate Technologist 🚀  
 
@@ -25,18 +23,19 @@ Join me on this exciting journey as you explore my professional growth and innov
 <h3>🌐 Connect with Me</h3>
 <p>
   <a href="https://www.linkedin.com/in/gouthampr" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=social&logo=linkedin" alt="LinkedIn" />
-  </a>&emsp;
-  <a href="https://twitter.com/gouthampr" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=social&logo=twitter" alt="Twitter" />
-  </a>
+    <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.0.0/svgs/brands/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
+</a>&emsp;
+<a href="https://twitter.com/gouthampr" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.0.0/svgs/brands/twitter.svg" alt="Twitter" width="40" height="40"/>
+</a>
+
 </p>
 
 <h3>🛠 Languages</h3>
 <p>
   <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
-    <img src="https://skillicons.dev/icons?i=cplusplus" alt="C++" />
-  </a>&emsp;
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
+</a>&emsp;
   <a href="https://www.java.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=java" alt="Java" />
   </a>&emsp;
